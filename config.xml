@@ -15,7 +15,7 @@ Aplicaión que realiza el swipe o deslizamiento en el dispositivo
 Esteban Samuel Galindo Rodríguez
 </author>
 
-<!--Personaliza la aplicación y plataforms-->
+<!--Personaliza la aplicación y plataforma-->
 <preference name="orientation"	value="default"/>
 <!--<preference name="orientation"	value="portrait"/>
 <preference name="orientation" value="landscape"/>-->
