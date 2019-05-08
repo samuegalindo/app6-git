@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<widget xmlns = "thhp://www.w3.org/ns/widgets"
+<widget xmlns = "http://www.w3.org/ns/widgets"
 xmlns:gap = "http://phonegap.com/ns/1.0"
-id = "com.phonegap.app6"
-version = "1.0.0">
+id="com.phonegap.app6"
+version="1.0.0">
 
 <name>app6 Deslizar hacia la izquierda y a la derecha </name>
 
