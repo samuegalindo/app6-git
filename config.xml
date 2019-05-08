@@ -5,13 +5,13 @@ xmlns:gap = "http://phonegap.com/ns/1.0"
 id = "com.phonegap.app6"
 version = "1.0.0">
 
-<name>app36 Deslizar hacia la izquierda y a la derecha </name>
+<name>app6 Deslizar hacia la izquierda y a la derecha </name>
 
 <decription>
-Aplicaión que realiza el swipe o deslizamiento en el dispositivi
+Aplicaión que realiza el swipe o deslizamiento en el dispositivo
 </decription>
 
-<author href="https://build.phonegsp.com" email="cb16.galindi.rodriguez.esteban@gmail.com">
+<author href="https://build.phonegsp.com" email="cb16.galindo.rodriguez.esteban@gmail.com">
 Esteban Samuel Galindo Rodríguez
 </author>
 
@@ -19,7 +19,7 @@ Esteban Samuel Galindo Rodríguez
 <preference name="orientation"	value="default"/>
 <!--<preference name="orientation"	value="portrait"/>
 <preference name="orientation" value="landscape"/>-->
-<preference name="target-device"	value="universsl"/>
+<preference name="target-device"	value="universal"/>
 <preference name="fullscreen"	value="true"/>
 <preference name="android-installLocation"	value="auto"/>
 <preference name="permissions"	value="INTERNET"/>
