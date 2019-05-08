@@ -17,7 +17,7 @@ Esteban Samuel Galindo Rodríguez
 
 <!--Personaliza la aplicación y plataforms-->
 <preference name="orientation"	value="default"/>
-<!--<preference name="orientation"	value="portarit"/>
+<!--<preference name="orientation"	value="portrait"/>
 <preference name="orientation" value="landscape"/>-->
 <preference name="target-device"	value="universsl"/>
 <preference name="fullscreen"	value="true"/>
