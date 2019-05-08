@@ -38,7 +38,7 @@ Esteban Samuel Galindo Rodríguez
 <acces origin="https://*/*"/>
 <allow-intent href="http://*/*"/>
 <acces origin="http://*/*"/>
-<plugin name="cordov-plugin-whitelist" source="npm"/>
+<plugin name="cordova-plugin-whitelist" source="npm"/>
 
 <!--Colocar icono app-->
 
